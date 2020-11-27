@@ -6,4 +6,4 @@
 3. https://github.com/fujiwara-yu/bomberhuman ([Demo](https://fujiwara-yu.github.io/bomberhuman/))
 4. https://github.com/takaie0214/bomberhuman ([Demo](https://takaie0214.github.io/bomberhuman/))
 5. https://github.com/miyake13000/bomberhuman ([Demo](https://miyake13000.github.io/bomberhuman/))
-6. https://github.com/yoshinari-nomura/bomberhuman ([Demo](http://blade.swlab.cs.okayama-u.ac.jp/~nom/bomberhuman/))
+6. https://github.com/yoshinari-nomura/bomberhuman ([Demo](https://yoshinari-nomura.github.io/bomberhuman/demo/))
